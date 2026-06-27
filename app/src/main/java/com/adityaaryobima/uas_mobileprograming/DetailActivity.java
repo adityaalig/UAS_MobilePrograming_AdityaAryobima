@@ -1,6 +1,6 @@
 package com.adityaaryobima.uas_mobileprograming;
 
-import android.content.Intent; // Tambahan import buat pindah halaman
+import android.content.Intent; 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
