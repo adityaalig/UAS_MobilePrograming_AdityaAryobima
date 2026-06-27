@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EndemikDB</string>
+    <string name="pengaturan">Pengaturan Aplikasi</string>
+    <string name="ubah_tema">Ubah Tema Gelap/Terang</string>
+    <string name="ganti_bahasa">Ganti Region (Bahasa)</string>
+    <string name="menu_hewan">Hewan</string>
+    <string name="menu_tumbuhan">Tumbuhan</string>
+    <string name="menu_profil">Profil</string>
+    <string name="judul_favorit">Favorit Saya</string>
+    <string name="hint_pencarian">Cari hewan atau tumbuhan...</string>
+    <string name="judul_pencarian">Pencarian</string>
+    <string name="hint_temukan">Temukan...</string>
+</resources>

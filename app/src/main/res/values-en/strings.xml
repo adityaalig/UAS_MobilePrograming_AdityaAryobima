@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndemicDB</string>
+    <string name="pengaturan">App Settings</string>
+    <string name="ubah_tema">Toggle Dark/Light Mode</string>
+    <string name="ganti_bahasa">Change Region (Language)</string>
+    <string name="menu_hewan">Animals</string>
+    <string name="menu_tumbuhan">Plants</string>
+    <string name="menu_profil">Profile</string>
+    <string name="judul_favorit">My Favorites</string>
+    <string name="hint_pencarian">Search animals or plants...</string>
+    <string name="judul_pencarian">Search</string>
+    <string name="hint_temukan">Find...</string>
+</resources>

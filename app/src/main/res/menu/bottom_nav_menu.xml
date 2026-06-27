@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_hewan"
+        android:icon="@drawable/ic_hewan"
+        android:title="@string/menu_hewan" /> <item
+         android:id="@+id/menu_tumbuhan"
+        android:icon="@drawable/ic_tumbuhan"
+        android:title="@string/menu_tumbuhan" /> <item
+        android:id="@+id/menu_profil"
+        android:icon="@drawable/ic_person"
+        android:title="@string/menu_profil" /> </menu>
